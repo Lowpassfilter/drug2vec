@@ -1,0 +1,1 @@
+DrugBank provide drug name and cid for each drug in pubchem. However, the name and cid sometimes are not consistent in pubchem. Here we keep both record in the file drugbanksmile.txt, with name record before cid record. 
